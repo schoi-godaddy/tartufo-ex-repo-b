@@ -3,7 +3,8 @@ repo-path = "."
 regex = true
 entropy = true
 exclude-path-patterns = [
- {path-pattern = 'tartufo\.toml', reason='tartufo file, not secret'}
+    {path-pattern = 'tartufo\.toml', reason='tartufo file, not secret'},
+    {path-pattern = 'go\.sum', reason='go sum, not secret'},
 ]
 
 exclude-signatures = [
