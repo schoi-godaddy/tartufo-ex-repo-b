@@ -12,5 +12,7 @@ exclude-signatures = [
 ]
 
 exclude-entropy-patterns = [
-    {path-pattern = '\.github/workflows/.*\.y(a)ml', pattern = 'uses: .*@[a-f\d]{40}', reason = 'GitHub Actions'}
+    {path-pattern = '\.github/workflows/.*\.y(a)ml', pattern = 'uses: .*@[a-f\d]{40}', reason = 'GitHub Actions'},
+    {path-pattern = 'config/setting\.json', pattern = 'TG9yZW.*==', reason = 'Base64 of Lorem Ipsum, not a secret'},
+    {path-pattern = 'config/sample\.env', pattern = 'https://github.com/awsdocs/amazon.*', reason = 'Amazon URL, not a secret'},
 ]
