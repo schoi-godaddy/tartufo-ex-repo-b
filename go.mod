@@ -1,4 +1,4 @@
-module tartufo-ex-repo-a
+module tartufo-ex-repo-b
 
 go 1.19
 
