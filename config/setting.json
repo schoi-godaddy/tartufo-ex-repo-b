@@ -5,5 +5,9 @@
     "username": "somefakestuff",
     "password": "TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QgdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIFB1cnVzIG5vbiBlbmltIHByYWVzZW50IGVsZW1lbnR1bSBmYWNpbGlzaXMgbGVvIHZlbCBmcmluZ2lsbGEgZXN0Lg==",
     "port": 3306
+  },
+  "not-true-aws": {
+    "AWS_ACCESS_KEY_ID": "ASIAJLZVMHOHEJCWLWSA",
+    "AWS_SECRET_ACCESS_KEY": "UeoUrWczFIplmndVsjDfxadUqkUZnTPxOlqmdJKG"
   }
 }
