@@ -7,7 +7,7 @@
     "port": 3306
   },
   "not-true-aws": {
-    "AWS_ACCESS_KEY_ID": "AKIAZIB3K4P6LPQVIJOJ",
-    "AWS_SECRET_ACCESS_KEY": "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"
+    "AWS_ACCESS_KEY_ID": "AKIAZIB3K2P5LPQVIJOJ",
+    "AWS_SECRET_ACCESS_KEY": "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"
   }
 }
