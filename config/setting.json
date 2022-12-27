@@ -4,15 +4,9 @@
     "created-by": "sc",
     "username": "somefakestuff",
     "password": "TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QgdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIFB1cnVzIG5vbiBlbmltIHByYWVzZW50IGVsZW1lbnR1bSBmYWNpbGlzaXMgbGVvIHZlbCBmcmluZ2lsbGEgZXN0Lg==",
-    "port": 3306,
-    "RAND": "rUcI7Hpx7o3NTR/BbwAsZRgyp+xJc1l/vVGKxAmH"
+    "port": 3306
   },
-  "not-true-aws": {
-    "V1": "AKIARQBYXYDDEKVOUJVJ"
-  },
-  "some_setting": {
-    "yes": "ASIAUNWH9FPVIE9QO7LF",
-    "dumb": "1231920381209381",
-    "no": "TYN7j+665+3Y1SYR+n7IRzH7Nc2NDTjGD65VqxJC"
+  "AWS": {
+    "AWS_SECRET_ACCESS_KEY": "TYN7j+123+3Y1SYR+n7IRzH7Nc2NDTjGD65VqxJC"
   }
 }
