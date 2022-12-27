@@ -8,5 +8,8 @@
   },
   "AWS": {
     "AWS_SECRET_ACCESS_KEY": "TYN7j+123+3Y1SYR+n7IRzH7Nc2NDTjGD65VqxJC"
+  },
+  "HOOK": {
+    "loc": "https://hooks.slack.com/services/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"
   }
 }
