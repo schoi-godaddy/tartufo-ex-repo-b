@@ -7,7 +7,7 @@
     "port": 3306
   },
   "not-true-aws": {
-    "ID": "AKIARQAYVYDDEKVOUJVJ",
-    "KEY": "rUcJ2Hpx7o3NTR/BbwAsZRgyp+xJc1l/vVGKxAmH"
+    "V1": "AKIARQAYXYDDEKVOUJVJ",
+    "RAND": "rUcI2Hpx7o3NTR/BbwAsZRgyp+xJc1l/vVGKxAmH"
   }
 }
